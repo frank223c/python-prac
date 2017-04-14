@@ -1,0 +1,13 @@
+calcular el promedio
+n[1]: n[2]: n[3]: n[4]: n[5]: n[6]: n[7]: n[8]: could not convert string to float: 'f'
+n[8]: could not convert string to float: 'f'
+n[8]: could not convert string to float: 'h'
+n[8]: n[9]: n[10]: n[11]: 
+
+contador: 10 suma: 125.8 promedio: 12.58
+cantidad de datos: 10
+
+
+
+
+[5.0, 6.0, 3.0, 5.0, 6.0, 78.0, 5.8, 6.0, 7.0, 4.0] <class 'list'>
